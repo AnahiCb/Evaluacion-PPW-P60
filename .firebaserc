@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "evaluacionppw": {
+      "hosting": {
+        "evaluacionPPW60": [
+          "evaluacionppw"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "evaluacionppw"
+  }
+}
